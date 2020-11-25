@@ -29,25 +29,6 @@ body {
   flex-direction: column;
 }
 
-.timer__controls {
-  display: flex;
-}
-
-.timer__controls > * {
-  flex: 1;
-}
-
-.timer__controls form {
-  flex: 1;
-  display: flex;
-}
-
-.timer__controls input {
-  flex: 1;
-  border: 0;
-  padding: 2rem;
-}
-
 .timer__button {
   background: none;
   border: 0;
